@@ -1,0 +1,7 @@
+C:\Users\Constantin\Documents\FireFAirW\Dist\meta.json
+C:\Users\Constantin\Documents\FireFAirW\Dist\FireFAirW.dll
+C:\Users\Constantin\Documents\FireFAirW\Dist\FireFAirW.pdb
+C:\Users\Constantin\Documents\FireFAirW\FireFAirW\obj\Debug\FireFAirW.csproj.AssemblyReference.cache
+C:\Users\Constantin\Documents\FireFAirW\FireFAirW\obj\Debug\FireFAirW.csproj.CoreCompileInputs.cache
+C:\Users\Constantin\Documents\FireFAirW\FireFAirW\obj\Debug\FireFAirW.dll
+C:\Users\Constantin\Documents\FireFAirW\FireFAirW\obj\Debug\FireFAirW.pdb
